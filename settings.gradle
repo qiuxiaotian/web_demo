@@ -1,0 +1,3 @@
+rootProject.name = 'springboot_01'
+include 'web_demo'
+
